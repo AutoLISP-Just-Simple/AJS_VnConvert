@@ -8,6 +8,8 @@
 
     public static class CharsetIdMap
     {
+
+        //Edit by AJS Team from www.lisp.vn
         public static readonly CharsetNameId[] CharsetIdMapArray = new CharsetNameId[]
         {
             new CharsetNameId { Name = "BKHCM1", Id = Charset.CONV_CHARSET_BKHCM1 },

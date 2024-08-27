@@ -1,14 +1,10 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace AJS_VnConvert
+﻿namespace AJS_VnConvert
 {
     public static class Charset
     {
+        //Edit by AJS Team from www.lisp.vn
         public const int CONV_CHARSET_UNICODE = 0;
+
         public const int CONV_CHARSET_UNIUTF8 = 1;
         public const int CONV_CHARSET_UNIREF = 2; //&#D;
         public const int CONV_CHARSET_UNIREF_HEX = 3;
